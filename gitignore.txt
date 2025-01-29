@@ -1,0 +1,4 @@
+EuroSAT*
+.ipynb_checkpoints
+
+lulc
